@@ -1,5 +1,3 @@
-# PathTracker
-
 # Line Following Robot
 
 ## Overview
